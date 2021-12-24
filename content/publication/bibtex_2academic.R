@@ -122,20 +122,20 @@ bibtex_2academic <- function(bibfile,
       publication <-  x[["mainref"]]
       if (!is.na(x[["editor"]])) publication <- paste0(publication,
                                                        " In ", x[["editor"]], ": ")
-      if (!is.na(x[["booktitle"]])) publication <- paste0(publication,
-                                                          x[["booktitle"]], ". ")
+      # if (!is.na(x[["booktitle"]])) publication <- paste0(publication,
+      #                                                     x[["booktitle"]], ". ")
       if (!is.na(x[["volume"]])) publication <- paste0(publication,
                                                        ", ", x[["volume"]], "")
-      if (!is.na(x[["type"]])) publication <- paste0(publication,
-                                                     x[["type"]], " ")
+      # if (!is.na(x[["type"]])) publication <- paste0(publication,
+      #                                                x[["type"]], " ")
       if (!is.na(x[["number"]])) publication <- paste0(publication,
                                                        "(", x[["number"]], ")")
       if (!is.na(x[["pages"]])) publication <- paste0(publication,
                                                       " ", x[["pages"]], ".")
-      if (!is.na(x[["address"]])) publication <- paste0(publication,
-                                                        " ", x[["address"]], ":")
-      if (!is.na(x[["institution"]])) publication <- paste0(publication,
-                                                            " ", x[["institution"]])
+      # if (!is.na(x[["address"]])) publication <- paste0(publication,
+      #                                                   " ", x[["address"]], ":")
+      # if (!is.na(x[["institution"]])) publication <- paste0(publication,
+      #                                                       " ", x[["institution"]])
       if (!is.na(x[["publisher"]])) publication <- paste0(publication,
                                                           " ", x[["publisher"]])
       if (!is.na(x[["doi"]])) publication <- paste0(publication,
