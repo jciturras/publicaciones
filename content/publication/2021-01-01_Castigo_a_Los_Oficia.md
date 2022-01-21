@@ -8,6 +8,7 @@ publication_short = "Revista Uruguaya de Ciencia Política, 30(1) 135--156. Facu
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "http://www.scielo.edu.uy/scielo.php?script=sci_abstract&pid=S1688-499X2021000100135&lng=es&nrm=iso&tlng=es"
+tags = ["Legitimacy","Political system","Populism"]
 url_code = ""
 image_preview = ""
 selected = false

@@ -8,7 +8,7 @@ publication_short = "Biological Research, 53(1) 15. https://doi.org/10.1186/s406
 abstract = "Current South American populations trace their origins mainly to three continental ancestries, i.e. European, Amerindian and African. Individual variation in relative proportions of each of these ancestries may be confounded with socio-economic factors due to population stratification. Therefore, ancestry is a potential confounder variable that should be considered in epidemiologic studies and in public health plans. However, there are few studies that have assessed the ancestry of the current admixed Chilean population. This is partly due to the high cost of genome-scale technologies commonly used to estimate ancestry. In this study we have designed a small panel of SNPs to accurately assess ancestry in the largest sampling to date of the Chilean mestizo population (n,=,3349) from eight cities. Our panel is also able to distinguish between the two main Amerindian components of Chileans: Aymara from the north and Mapuche from the south."
 abstract_short = ""
 url_source = "https://doi.org/10.1186/s40659-020-00284-5"
-tags = ["Admixture","Ancestry","Aymara","Chile","Mapuche","SNPs panel"]
+tags = ["Others"]
 url_code = ""
 image_preview = ""
 selected = false

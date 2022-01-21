@@ -8,6 +8,7 @@ publication_short = "Aging & Mental Health 1--10. https://doi.org/10.1080/136078
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.tandfonline.com/doi/full/10.1080/13607863.2021.1929065"
+tags = ["Labor market","Social security","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

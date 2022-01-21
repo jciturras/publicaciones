@@ -8,6 +8,7 @@ publication_short = "The Journal of the Economics of Ageing, 19 100309. https://
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S2212828X21000037"
+tags = ["Labor market","Social security","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

@@ -8,6 +8,7 @@ publication_short = "Journal of Research on Educational Effectiveness 1--37. htt
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.tandfonline.com/doi/full/10.1080/19345747.2021.1966860"
+tags = ["Education","Gender","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

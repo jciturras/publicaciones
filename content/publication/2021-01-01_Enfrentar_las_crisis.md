@@ -8,6 +8,7 @@ publication_short = "Antípoda. Revista de Antropología y Arqueología Universi
 abstract = "Las diversas crisis que hoy enfrentamos generan situaciones borrosas, indecibles e incluso catastróficas. En este número temático nos interesa pensar cómo, pese a ello, las personas y los colectivo..."
 abstract_short = ""
 url_source = "https://revistas.uniandes.edu.co/doi/abs/10.7440/antipoda45.2021.01"
+tags = ["Gender","Interactions"]
 url_code = ""
 image_preview = ""
 selected = false

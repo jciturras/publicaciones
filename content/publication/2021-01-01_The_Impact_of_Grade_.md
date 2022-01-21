@@ -8,6 +8,7 @@ publication_short = "Economics of Education Review, 84 102153. https://doi.org/1
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S0272775721000728"
+tags = ["Education","Socioeconomic factors","Territorial conflicts"]
 url_code = ""
 image_preview = ""
 selected = false

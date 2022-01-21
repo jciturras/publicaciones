@@ -8,6 +8,7 @@ publication_short = "Early Childhood Research Quarterly, 57 202--214. https://do
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S0885200621000806"
+tags = ["Early childhood intervention","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

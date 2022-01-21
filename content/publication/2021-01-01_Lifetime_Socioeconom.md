@@ -8,6 +8,7 @@ publication_short = "Advances in Life Course Research, 49 100415. https://doi.or
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S1040260821000149"
+tags = ["Labor market","Social security","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

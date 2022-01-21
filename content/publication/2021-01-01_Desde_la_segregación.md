@@ -8,6 +8,7 @@ publication_short = "Revista de Urbanismo(44) 39--59. https://doi.org/10.5354/07
 abstract = "La política de vivienda social subsidiada, de masiva aplic"
 abstract_short = ""
 url_source = "https://revistaurbanismo.uchile.cl/index.php/RU/article/view/55948"
+tags = ["Segregation","Territorial factors","Territorial policies"]
 url_code = ""
 image_preview = ""
 selected = false
