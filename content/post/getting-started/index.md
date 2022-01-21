@@ -49,8 +49,6 @@ Important: These categories do not respond to the Centre's lines of research, bu
 
 Considering Social cohesion as a state of affairs concerning both the vertical and the horizontal interactions among members of society as characterized by a set of attitudes and norms that includes trust, a sense of belonging and the willingness to participate and help, as well as their behavioral manifestations, this topic contributes to the analysis and understanding of social conflict and cohesion in Chile by integrating the interpersonal and intergroup dimensions into the macro-social context.
 
-<p style="text-align:right;">Download Sociability database</p>
-
 <a href="sociability.xlsx" download>
   <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
@@ -61,7 +59,6 @@ Considering Social cohesion as a state of affairs concerning both the vertical a
 
 This topic examine the questions arising from these circumstances from four dimensions: disaffection and legitimacy of democracy; conflict with judicial and constitutional norms; conflicts and social movements; and the socio-cultural and political history of conflict in Chile.
 
-<p style="text-align:right;">Download Conflict database</p>
 
 <a href="Conflict.xlsx" download>
   <img src="download.png" alt="Database" width="120" height="60" align="right">
@@ -72,7 +69,7 @@ This topic examine the questions arising from these circumstances from four dime
 ## Territorial factors
 
 Physical and geostatistical analysis brings an intersectoral and multi-scalar perspective to social cohesion research, revealing the significant coexistence of social, cultural and economic phenomena in space. 
-<p style="text-align:right;">Download Territorial factors database</p>
+
 
 <a href="territorial.xlsx" download>
   <img src="download.png" alt="Database" width="120" height="60" align="right">
@@ -84,7 +81,6 @@ Physical and geostatistical analysis brings an intersectoral and multi-scalar pe
 
 Considering reduction of disparities, inequalities and social exclusion as one of the two analytically distinct “social goal dimensions” defines by Berger-Schmitt (2000), this topic consider studies about, among other topics, real and perceived inequalities, and how different forms of inequality impact on the values and attitudes that motivate conflict and social cohesion, with a focus on education, work and the spatial dimension of inequalities. 
 
-<p style="text-align:right;">Download Socioeconomic factors database</p>
 
 <a href="socioeconomic.xlsx" download>
   <img src="download.png" alt="Database" width="120" height="60" align="right">
@@ -96,7 +92,6 @@ Considering reduction of disparities, inequalities and social exclusion as one o
 
 This refers to the maintenance of legitimacy of major political and social institutions – the state in particular – as mediators among individuals of different interests.
 
-<p style="text-align:right;">Download Political system database</p>
 
 <a href="political.xlsx" download>
   <img src="download.png" alt="Database" width="120" height="60" align="right">
