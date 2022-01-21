@@ -52,7 +52,7 @@ Considering Social cohesion as a state of affairs concerning both the vertical a
 <p style="text-align:right;">Download Sociability database</p>
 
 <a href="sociability.xlsx" download>
-  <img src="download.png" alt="Database" width="280" height="142" align="right">
+  <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
 
 ![](interactions.png)
@@ -64,7 +64,7 @@ This topic examine the questions arising from these circumstances from four dime
 <p style="text-align:right;">Download Conflict database</p>
 
 <a href="Conflict.xlsx" download>
-  <img src="download.png" alt="Database" width="280" height="142" align="right">
+  <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
 
 ![](conflict.png)
@@ -75,7 +75,7 @@ Physical and geostatistical analysis brings an intersectoral and multi-scalar pe
 <p style="text-align:right;">Download Territorial factors database</p>
 
 <a href="territorial.xlsx" download>
-  <img src="download.png" alt="Database" width="280" height="142" align="right">
+  <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
 
 ![](territorial.png)
@@ -87,7 +87,7 @@ Considering reduction of disparities, inequalities and social exclusion as one o
 <p style="text-align:right;">Download Socioeconomic factors database</p>
 
 <a href="socioeconomic.xlsx" download>
-  <img src="download.png" alt="Database" width="280" height="142" align="right">
+  <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
 
 ![](socioeconomic.png)
@@ -99,8 +99,9 @@ This refers to the maintenance of legitimacy of major political and social insti
 <p style="text-align:right;">Download Political system database</p>
 
 <a href="political.xlsx" download>
-  <img src="download.png" alt="Database" width="280" height="142" align="right">
+  <img src="download.png" alt="Database" width="120" height="60" align="right">
 </a>
+
 ![](political.png)
 
 
