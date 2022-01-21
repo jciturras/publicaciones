@@ -1,7 +1,7 @@
 ---
 title: Analysis
 
-subtitle:  Most frequent topics in COES publications
+subtitle: The following graphs show the distribution of the main themes of the Centre's publications during the year 2021. 
 
 # Summary for listings and search engines
 summary: The following graphs show the distribution of the main themes of the Centre's publications during the year 2021. 
