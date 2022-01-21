@@ -8,6 +8,7 @@ publication_short = "La ley de la emergencia. Ensayos sobre el derecho, la excep
 abstract = "Repositorio académico de la Universidad de Chile. Tesis, artículos y libros publicados en formato digital con distintos niveles de acceso"
 abstract_short = ""
 url_source = "https://repositorio.uchile.cl/handle/2250/179060"
+tags = ["Conflict","Legitimacy","Political system"]
 url_code = ""
 image_preview = ""
 selected = false

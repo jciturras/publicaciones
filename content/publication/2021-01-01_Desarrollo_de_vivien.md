@@ -8,6 +8,7 @@ publication_short = "Revista de Arquitectura, 26(40) 42--49. https://doi.org/10.
 abstract = "En la última década, aumentaron los precios de vivienda e"
 abstract_short = ""
 url_source = "https://dearquitectura.uchile.cl/index.php/RA/article/view/64127"
+tags = ["Housing","Territorial factors","Territorial policies"]
 url_code = ""
 image_preview = ""
 selected = false

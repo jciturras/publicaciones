@@ -5,10 +5,10 @@ authors = ["Tabea Hassler", "Johannes Ullrich", "Simone Sebben", "Nurit Shnabel"
 publication_types = ["2"]
 publication = "Journal of Personality and Social Psychology https://doi.org/10.1037/pspi0000365"
 publication_short = "Journal of Personality and Social Psychology https://doi.org/10.1037/pspi0000365"
-abstract = "(Abstract not available)"
+abstract = "What role does intergroup contact play in promoting support for social change toward greater social equality? Drawing on the needs-based model of reconciliation, we theorized that when inequality between groups is perceived as illegitimate, disadvantaged group members will experience a need for empowerment and advantaged group members a need for acceptance. When intergroup contact satisfies each group’s needs, it should result in more mutual support for social change. Using four sets of survey data collected through the Zurich Intergroup Project in 23 countries, we tested several preregistered predictions, derived from the above reasoning, across a large variety of operationalizations. Two studies of disadvantaged groups (Ns = 689 ethnic minority members in Study 1 and 3,382 sexual/gender minorities in Study 2) support the hypothesis that, after accounting for the effects of intergroup contact and perceived illegitimacy, satisfying the need for empowerment (but not acceptance) during contact is positively related to support for social change. Two studies with advantaged groups (Ns = 2,937 ethnic majority members in Study 3 and 4,203 cis-heterosexual individuals in Study 4) showed that, after accounting for illegitimacy and intergroup contact, satisfying the need for acceptance (but also empowerment) is positively related to support for social change. Overall, findings suggest that intergroup contact is compatible with efforts to promote social change when group-specific needs are met. Thus, to encourage support for social change among both disadvantaged and advantaged group members, it is essential that, besides promoting mutual acceptance, intergroup contact interventions also give voice to and empower members of disadvantaged groups. (PsycInfo Database Record (c) 2021 APA, all rights reserved)"
 abstract_short = ""
 url_source = "http://doi.apa.org/getdoi.cfm?doi=10.1037/pspi0000365"
-tags = ["WOS"]
+tags = ["Intergroup contact","Legitimacy","Sociability"]
 url_code = ""
 image_preview = ""
 selected = false

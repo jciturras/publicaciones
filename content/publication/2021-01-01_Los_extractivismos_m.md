@@ -8,6 +8,7 @@ publication_short = "Scripta Nova: Revista electrónica de geografía y ciencias
 abstract = "Autoría: Felipe Irarrázaval. Localización: Scripta Nova: Revista electrónica de geografía y ciencias sociales. Nº. 3, 2021. Artículo de Revista en Dialnet."
 abstract_short = ""
 url_source = "https://dialnet.unirioja.es/servlet/articulo?codigo=8139614"
+tags = ["Territorial factors","Territorial policies"]
 url_code = ""
 image_preview = ""
 selected = false

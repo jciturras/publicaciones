@@ -8,6 +8,7 @@ publication_short = "Organizational Behavior and Human Decision Processes, 163 6
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S074959781830640X"
+tags = ["Education","Intergenerational mobility","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

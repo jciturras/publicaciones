@@ -8,6 +8,7 @@ publication_short = "Revista de geografía Norte Grande(77) 109--132. https://do
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-34022020000300109&lng=en&nrm=iso&tlng=en"
+tags = ["Socioeconomic factors","Socioeconomic transformation","Territorial conflicts"]
 url_code = ""
 image_preview = ""
 selected = false

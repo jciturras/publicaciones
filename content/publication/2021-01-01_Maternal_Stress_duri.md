@@ -8,6 +8,7 @@ publication_short = "Economics & Human Biology, 43 101047. https://doi.org/10.10
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S1570677X2100071X"
+tags = ["Early childhood intervention","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

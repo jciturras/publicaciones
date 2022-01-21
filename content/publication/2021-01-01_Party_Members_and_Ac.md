@@ -8,6 +8,7 @@ publication_short = "Oxford Research Encyclopedia of Politics https://doi.org/10
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1673"
+tags = ["Political system"]
 url_code = ""
 image_preview = ""
 selected = false

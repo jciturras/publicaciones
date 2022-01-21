@@ -8,6 +8,7 @@ publication_short = "Gender, Work & Organization gwao.12668. https://doi.org/10.
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://onlinelibrary.wiley.com/doi/10.1111/gwao.12668"
+tags = ["Gender","Sociability","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

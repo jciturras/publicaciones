@@ -8,6 +8,7 @@ publication_short = "Journal of Democracy, 32(3) 33--47. Johns Hopkins Universit
 abstract = "Chile faces its most crucial re-foundational moment since the recovery of democracy in 1990. A constitutional convention composed of a majority of nonpartisan members and dominated by no single group will write a new constitution to replace the one enacted in 1980 by Augusto Pinochet. Will this process bring social norms in tune with formal institutions, or will the result be a polarized politics and deeper crisis? This political moment presents great challenges, but it is also an opportunity to resolve a longstanding political conflict and build a more democratic and stable future for the country."
 abstract_short = ""
 url_source = "https://muse.jhu.edu/article/797784"
+tags = ["Conflict","Elites","Legitimacy","Political system"]
 url_code = ""
 image_preview = ""
 selected = false

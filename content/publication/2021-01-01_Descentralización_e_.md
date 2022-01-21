@@ -8,6 +8,7 @@ publication_short = "Centro de Políticas Públicas UC Centro de Políticas Púb
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://repositorio.uc.cl/handle/11534/61649"
+tags = ["Territorial belonging","Territorial factors","Territorial policies"]
 url_code = ""
 image_preview = ""
 selected = false

@@ -8,6 +8,7 @@ publication_short = "Economics of Education Review, 77 102011. https://doi.org/1
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S0272775719304698"
+tags = ["Education","Gender","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

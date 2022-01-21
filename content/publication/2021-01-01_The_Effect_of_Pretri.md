@@ -8,6 +8,7 @@ publication_short = "Journal of Quantitative Criminology https://doi.org/10.1007
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://link.springer.com/10.1007/s10940-021-09535-4"
+tags = ["Education","Intergenerational mobility","Labor market","Socioeconomic factors"]
 url_code = ""
 image_preview = ""
 selected = false

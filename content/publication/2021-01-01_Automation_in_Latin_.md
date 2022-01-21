@@ -8,6 +8,7 @@ publication_short = "Technological Forecasting and Social Change 121333. https:/
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://linkinghub.elsevier.com/retrieve/pii/S0040162521007642"
+tags = ["Socioeconomic factors","Socioeconomic transformation"]
 url_code = ""
 image_preview = ""
 selected = false

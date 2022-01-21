@@ -8,7 +8,7 @@ publication_short = "Social Psychological and Personality Science 19485506209493
 abstract = "The present research demonstrates intergenerational influences on collective action participation, whereby parents’ past and current participation in collective action (descriptive family norms) shape their children’s participation in conventional and radical collective action via injunctive family norms (perception that parents value such participation). Two unique data sets were used: dyads of activist parents and their adult children (Study 1, N = 100 dyads) and student activists who participated in a yearlong, three-wave longitudinal study (Study 2, Ns wave 1 = 1,221, Wave 2 = 960, and Wave 3 = 917). Parents’ past and current participation directly and indirectly predicted children’s protest participation in Study 1, while Study 2 showed a similar pattern longitudinally: Perceptions of parents’ participation (descriptive family norm) and approval (injunctive family norm) predicted change in collective action participation over time. Together, results highlight family environment as a critical setting for the intergenerational transmission of protest."
 abstract_short = ""
 url_source = "http://journals.sagepub.com/doi/10.1177/1948550620949378"
-tags = ["WOS"]
+tags = ["Citizenship","Conflict","Sociability","Social movements"]
 url_code = ""
 image_preview = ""
 selected = false

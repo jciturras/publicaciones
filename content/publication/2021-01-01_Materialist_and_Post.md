@@ -8,7 +8,7 @@ publication_short = "Journal of Social and Political Psychology, 9(1) 207--220. 
 abstract = "There is evidence that democracies are under threat around the world while the quest for strong leaders is increasing. Although the causes of these developments are complex and multifaceted, here we focus on one factor: the extent to which citizens express materialist and post-materialist concerns. We explore whether objective higher levels of democracy are differentially associated with materialist and post-materialist concerns and, in turn, whether this is related to the wish for a strong leader. Testing this hypothesis across 27 countries (N = 5,741) demonstrated a direct negative effect of democracies’ development on the wish for a strong leader. Further, multi-level mediation analysis showed that the relation between the Democracy Index and the wish for a strong leader was mediated by materialist concerns. This pattern of results suggests that lower levels of democracy are associated with enhanced concerns about basic needs and this is linked to greater support for strong leaders."
 abstract_short = ""
 url_source = "https://jspp.psychopen.eu/index.php/jspp/article/view/6213"
-tags = ["WOS"]
+tags = ["Intergroup contact","Sociability"]
 url_code = ""
 image_preview = ""
 selected = false
