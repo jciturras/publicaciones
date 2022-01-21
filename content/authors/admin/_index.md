@@ -42,12 +42,7 @@ highlight_name: true
 
 COES focuses its academic and dissemination activities on the analysis of the multiple manifestations of social conflict in Chile, its causes and its cultural and historical context.
 
-The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibañez. COES is funded by ANID's FONDAP programme.
+The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibáñez. COES is funded by ANID's FONDAP programme.
 
-The Centre's lines of research are:
 
-- The socioeconomic dimensions of the conflict
-- Group and individual interactions
-- Political and social conflict
-- Geographies of conflict and cohesion
 
