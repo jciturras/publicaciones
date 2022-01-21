@@ -3,10 +3,10 @@
 title: Centre for Conflict and Social Cohesion Studies
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Project no.: 15130009 
+role: Project no 15130009 
 
 # Organizations/Affiliations to show in About widget
 organizations:
