@@ -17,7 +17,7 @@ organizations:
 bio: The Centre for the Study of Conflict and Social Cohesion (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities. 
 
 # Lines to show in About widget
-interests:
+Lines:
 - The socio-economic dimensions of the conflict
 - Group and individual interactions
 - Political and social conflict
