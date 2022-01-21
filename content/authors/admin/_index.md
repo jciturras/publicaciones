@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "comunicaciones@coes.cl"
+email: comunicaciones@coes.cl
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -73,6 +73,6 @@ highlight_name: true
 
 COES focuses its academic and dissemination activities on the analysis of the multiple manifestations of social conflict in Chile, its causes as well as its cultural and historical context.
 
-The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibáñez. COES is funded by ANID's FONDAP programme.
+The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibañez. COES is funded by ANID's FONDAP programme.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
