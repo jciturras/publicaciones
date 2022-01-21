@@ -46,10 +46,8 @@ The Centre is sponsored by the Universidad de Chile and the Pontificia Universid
 
 The Centre's lines of research are:
 
-- The socio-economic dimensions of the conflict
+- The socioeconomic dimensions of the conflict
 - Group and individual interactions
 - Political and social conflict
 - Geographies of conflict and cohesion
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
