@@ -24,22 +24,19 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: **Principal topics **'
+  caption: 'Principal topics'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
+- Papers
+- Publications
 
-categories:
-- Demo
-- 教程
 ---
 
 ## Overview
