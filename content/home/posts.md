@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Analysis
-subtitle: Most frecuent topics in COES publications
+subtitle: Most frequent topics in COES publications
 
 content:
   # Page type to display. E.g. post, talk, publication...
