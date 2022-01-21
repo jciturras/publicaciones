@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Centre for Conflict and Social Cohesion Studies
+title: Center for Social Conflict and Cohesion Studies
 
 # Is this the primary user of the site?
 superuser: false
@@ -39,7 +39,7 @@ email: comunicaciones@coes.cl
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-The Centre for the Study of Conflict and Social Cohesion (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities.
+The Center for Social Conflict and Cohesion Studies (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities.
 
 COES focuses its academic and dissemination activities on the analysis of the multiple manifestations of social conflict in Chile, its causes and its cultural and historical context.
 
