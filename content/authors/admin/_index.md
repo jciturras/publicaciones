@@ -11,7 +11,7 @@ role: Project no.: 15130009
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: COES
-  url: https://coes.cl/
+  url: https://www.coes.cl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: The Centre for the Study of Conflict and Social Cohesion (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities. 
