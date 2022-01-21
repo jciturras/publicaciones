@@ -8,7 +8,7 @@ publication_short = "Proceedings of the National Academy of Sciences, 118(35) e2
 abstract = "Humans are social animals, but not everyone will be mindful of others to the same extent. Individual differences have been found, but would social mindfulness also be shaped by one’s location in the world? Expecting cross-national differences to exist, we examined if and how social mindfulness differs across countries. At little to no material cost, social mindfulness typically entails small acts of attention or kindness. Even though fairly common, such low-cost cooperation has received little empirical attention. Measuring social mindfulness across 31 samples from industrialized countries and regions (n= 8,354), we found considerable variation. Among selected country-level variables, greater social mindfulness was most strongly associated with countries’ better general performance on environmental protection. Together, our findings contribute to the literature on prosociality by targeting the kind of everyday cooperation that is more focused on communicating benevolence than on providing material benefits."
 abstract_short = ""
 url_source = "http://www.pnas.org/lookup/doi/10.1073/pnas.2023846118"
-tags = ["Citizenship","Interactions"]
+tags = ["Citizenship","Sociability"]
 url_code = ""
 image_preview = ""
 selected = false

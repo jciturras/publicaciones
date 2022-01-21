@@ -8,7 +8,7 @@ publication_short = "Revista de Psicología del Trabajo y de las Organizaciones,
 abstract = "Organizational dehumanization has detrimental consequences for workers’ well-being. Previous research has focused on organizational factors that trigger workers’ dehumanization or stress at work. However, less is known about the factors that can protect workers against the detrimental effects of dehumanization. In the present research, we performed a correlational study (N = 930) and a direct replication of it (N = 913) to analyze 1) the mediation role of organizational dehumanization in the relationship between authentic leadership and stress at work, and 2) the possible moderation of organizational identification and the frequency of leader-follower interactions. The results indicated that higher authentic leadership predicted lower organizational dehumanization and stress at work. Moreover, organizational dehumanization mediates the relationship between authentic leadership and stress at work."
 abstract_short = ""
 url_source = "https://journals.copmadrid.org/jwop/art/jwop2021a9"
-tags = ["Interactions","Job market"]
+tags = ["Job market","Sociability"]
 url_code = ""
 image_preview = ""
 selected = false
