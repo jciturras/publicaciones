@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Centre for Conflict and Social Cohesion Studies
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Project no.: 15130009 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: COES
+  url: https://coes.cl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The Centre for the Study of Conflict and Social Cohesion (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- The socio-economic dimensions of the conflict
+- Group and individual interactions
+- Political and social conflict
+- Geographies of conflict and cohesion
 
 # Education to show in About widget
 education:
@@ -64,14 +65,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "comunicaciones@coes.cl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+COES focuses its academic and dissemination activities on the analysis of the multiple manifestations of social conflict in Chile, its causes as well as its cultural and historical context.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibáñez. COES is funded by ANID's FONDAP programme.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
