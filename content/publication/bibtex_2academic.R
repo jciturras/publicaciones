@@ -206,3 +206,4 @@ bibtex_2academic(bibfile  = my_bibfile,
                  outfold   = out_fold,
                  abstract  = TRUE,
                  overwrite = TRUE)
+
