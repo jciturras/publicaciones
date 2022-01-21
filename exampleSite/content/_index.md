@@ -1,6 +1,6 @@
 ---
 # Homepage SEO
-title: COES
+title:
 summary:
 type: widget_page
 ---
